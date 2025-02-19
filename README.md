@@ -1,4 +1,4 @@
-                                                                       ## Hi I'm Alex 👋
+                                                                ## Hi I'm Alex 👋
 
 <!--
 **AlexPena1/AlexPena1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![6a7104a0-6bd8-48bc-a31c-9bfd519b444b](https://github.com/user-attachments/assets/256ea3f9-db93-403c-aa52-a7e201961f75)
